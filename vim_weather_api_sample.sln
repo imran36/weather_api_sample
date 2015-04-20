@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "weather_api_sam", "http://localhost:26449", "{BF9D796E-659E-477A-BA88-2F5629688224}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vim_weather_api_sample", "http://localhost:27140", "{FC0F82FF-785D-4AC4-87F2-DBFD192EC18D}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_26449"
-		Debug.AspNetCompiler.PhysicalPath = "..\weather_api_sam\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_26449\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_27140"
+		Debug.AspNetCompiler.PhysicalPath = "..\vim_weather_api_sample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_27140\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_26449"
-		Release.AspNetCompiler.PhysicalPath = "..\weather_api_sam\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_26449\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_27140"
+		Release.AspNetCompiler.PhysicalPath = "..\vim_weather_api_sample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_27140\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\weather_api_sam\"
+		SlnRelativePath = "..\vim_weather_api_sample\"
 	EndProjectSection
 EndProject
 Global
@@ -29,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF9D796E-659E-477A-BA88-2F5629688224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF9D796E-659E-477A-BA88-2F5629688224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0F82FF-785D-4AC4-87F2-DBFD192EC18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0F82FF-785D-4AC4-87F2-DBFD192EC18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
